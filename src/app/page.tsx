@@ -23,7 +23,7 @@ export default function Home() {
     <main className="flex flex-col min-h-screen bg-background text-foreground">
       {/* Service Overview */}
       <section className="py-12 px-6 md:px-24">
-        <h2 className="text-3xl font-semibold mb-4 text-center">Our Tutoring Services</h2>
+        <h2 className="text-3xl font-semibold mb-4 text-center">servicio de ayuda</h2>
         <p className="text-lg text-muted-foreground text-center">
           We offer expert tutoring in Math, Python Programming (Introductory and Advanced), and Calculus 1.
         </p>
