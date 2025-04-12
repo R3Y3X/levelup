@@ -25,15 +25,17 @@ export default function Home() {
       <section className="py-12 px-6 md:px-24">
         <h2 className="text-3xl font-semibold mb-4 text-center">servicio de ayuda</h2>
         <p className="text-lg text-muted-foreground text-center">
-          We offer expert tutoring in Math, Python Programming (Introductory and Advanced), and Calculus 1.
-        </p>
+      Ofrecemos Ayuda en matemáticas ensenanza basica y media, programación en Python (introductoria y avanzada) y cálculo 1, calculo 2.        </p>
       </section>
 
       {/* Approach &amp; Purpose Section */}
       <section className="py-12 px-6 md:px-24 bg-secondary">
         <h2 className="text-3xl font-semibold mb-4 text-center text-foreground">Our Approach</h2>
         <p className="text-lg text-muted-foreground text-center">
-          We believe in personalized learning, adapting our methods to suit your unique needs and goals.
+          creemos en la ensenanza personalizada, adaptando nuestros metodos para sus necesidades unicas y objetivos.
+        </p>
+        <p className="text-lg text-muted-foreground text-center">
+          creemos en la ensenanza personalizada, adapting our methods to suit your unique needs and goals.
         </p>
         {/* Add engaging visuals here */}
       </section>

@@ -1,22 +1,21 @@
-# **App Name**: TutorConnect
+# **Nombre de la Aplicación**: TutorConnect
 
-## Core Features:
+## Funcionalidades Principales:
 
-- Service Overview: Display a clear introduction of services offered: math for school students, Python programming (introductory and advanced), and Calculus 1 for university students.
-- Approach & Purpose Section: Showcase the unique approach and purpose behind the tutoring services with engaging visuals and concise text.
-- Contact Form: Implement a contact form where users can leave their information, especially their email, for easy communication.
-- Pricing Display: Create a pricing section that clearly outlines the costs for each subject and level of tutoring.
-- AI-Powered Query Analysis: Implement a tool to analyze student's query. This tool would let the student know in advance what topics from math, programming or calculus is related to student's query. This would help categorize the request.
+- **Resumen de Servicios**: Muestra una introducción clara de los servicios ofrecidos: matemáticas para estudiantes de colegio, programación en Python (introductorio y avanzado) y Cálculo 1 para estudiantes universitarios.
+- **Sección de Enfoque y Propósito**: Muestra el enfoque único y el propósito detrás de los servicios de tutoría con imágenes atractivas y texto conciso.
+- **Formulario de Contacto**: Implementa un formulario de contacto donde los usuarios puedan dejar su información, especialmente su correo electrónico, para una comunicación fácil.
+- **Visualización de Precios**: Crea una sección de precios que describa claramente los costos para cada materia y nivel de tutoría.
+- **Análisis de Consultas Impulsado por IA**: Implementa una herramienta para analizar la consulta del estudiante. Esta herramienta permitiría al estudiante saber de antemano qué temas de matemáticas, programación o cálculo están relacionados con su consulta. Esto ayudaría a categorizar la solicitud.
 
-## Style Guidelines:
+## Guía de Estilos:
 
-- Primary color: Light purple (#A0AEC0) for a modern, sophisticated feel.
-- Secondary color: Black (#000000) for backgrounds to provide a stark contrast and emphasize content.
-- Accent: A lighter shade of purple (#B4C2D9) for buttons and interactive elements to signify innovation and creativity.
-- Use a modern, sans-serif font for headers and a clear, readable font for body text to ensure information is easily accessible.
-- Maintain a clean and organized layout to present information clearly and avoid overwhelming users. Utilize white space effectively.
-- Utilize simple and relevant neon icons to visually represent subjects and levels of tutoring.
+- **Color Primario**: Morado claro (#A0AEC0) para una sensación moderna y sofisticada.
+- **Color Secundario**: Negro (#000000) para fondos, para proporcionar un contraste marcado y enfatizar el contenido.
+- **Acento**: Un tono más claro de morado (#B4C2D9) para botones y elementos interactivos para significar innovación y creatividad.
+- Usa una fuente moderna, sans-serif para los encabezados y una fuente clara y legible para el texto del cuerpo para asegurar que la información sea fácilmente accesible.
+- Mantén un diseño limpio y organizado para presentar la información con claridad y evitar abrumar a los usuarios. Utiliza el espacio en blanco de manera efectiva.
+- Utiliza iconos de neón simples y relevantes para representar visualmente las materias y niveles de tutoría.
 
-## Original User Request:
-Hola como estas ? me gustaria crear una landing page donde pueda mostrar mi servicio de ayudante de asignaturas como matematicas para alumnos de colegio, programacion en python tanto introduccion como avanzado y calculo 1 para alumnos e universidad.Creame una base para poder rellenar estos apratados tambien nuestro enfoque y proposito, un apratado de contacto, el cual puedan dejar su informaicon importante en especial el correo para contactarlos y ademas de eso otro apartado que diga los precios de las clases. porfavor crealo en react
-  
+## Solicitud Original del Usuario:
+Hola, ¿cómo estás? Me gustaría crear una landing page donde pueda mostrar mi servicio de ayudante de asignaturas como matemáticas para alumnos de colegio, programación en Python tanto introducción como avanzado y cálculo 1 para alumnos de universidad. Créame una base para poder rellenar estos apartados, también nuestro enfoque y propósito, un apartado de contacto, el cual puedan dejar su información importante, en especial el correo para contactarlos, y además de eso otro apartado que diga los precios de las clases. Por favor, créalo en React.
