@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@keyframes blink-caret {
+  0%, 100% { border-color: transparent; }
+  50%      { border-color: currentColor; }
+}
+.border-r-2 {
+  animation: blink-caret 0.75s step-end infinite;
+}
+html {
+  scroll-behavior: smooth;
+}
